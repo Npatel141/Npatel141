@@ -1,2 +1,3 @@
 git init
 git baranch -M main
+git add git-one
